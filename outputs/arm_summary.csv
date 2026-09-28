@@ -1,0 +1,4 @@
+arm,customers,visits,orders,revenue,visit_rate,conversion_rate,spend_per_customer
+control,21306,2262,122,13908.33,0.1062,0.0057,0.6528
+mens_email,21307,3894,267,30311.69,0.1828,0.0125,1.4226
+womens_email,21387,3238,189,23038.11,0.1514,0.0088,1.0772

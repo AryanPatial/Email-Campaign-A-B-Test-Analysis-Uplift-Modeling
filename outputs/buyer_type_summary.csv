@@ -1,0 +1,10 @@
+buyer_type,arm,customers,visit_rate,conversion_rate,spend_per_customer
+both,control,2149,0.1805,0.0093,1.1801
+both,mens_email,2181,0.315,0.0243,3.0051
+both,womens_email,2118,0.2517,0.0146,1.342
+mens_only,control,9638,0.0998,0.0055,0.6954
+mens_only,mens_email,9558,0.169,0.0115,1.3782
+mens_only,womens_email,9622,0.1109,0.0061,0.9738
+womens_only,control,9519,0.0958,0.0051,0.4906
+womens_only,mens_email,9568,0.1664,0.0109,1.1063
+womens_only,womens_email,9647,0.1698,0.0103,1.1222

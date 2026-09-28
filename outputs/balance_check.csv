@@ -1,0 +1,15 @@
+arm,feature,treated_mean,control_mean,smd
+mens_email,recency,5.774,5.75,0.007
+mens_email,history,242.836,240.883,0.008
+mens_email,mens,0.551,0.553,-0.005
+mens_email,womens,0.551,0.548,0.008
+mens_email,newbie,0.502,0.502,-0.001
+mens_email,web,0.445,0.44,0.011
+mens_email,urban,0.402,0.401,0.002
+womens_email,recency,5.768,5.75,0.005
+womens_email,history,242.537,240.883,0.007
+womens_email,mens,0.549,0.553,-0.009
+womens_email,womens,0.55,0.548,0.005
+womens_email,newbie,0.503,0.502,0.003
+womens_email,web,0.437,0.44,-0.005
+womens_email,urban,0.4,0.401,-0.002
